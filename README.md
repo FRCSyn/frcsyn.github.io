@@ -6,9 +6,11 @@ To promote and advance the use of synthetic data for face recognition, we organi
 - What are the limits of face recognition technology trained only with synthetic data?
 - Can the use of synthetic data be beneficial to solve/reduce the current limitations existed in face recognition technology?
 
-This is a novel and very important research line nowadays due to the recent discontinuation of face recognition datasets due to privacy concerns. Furthermore, state-of-the-art face recognition technology has several limitations in terms of bias in demographic groups (e.g., ethnicity and gender), and lack of performance in challenging conditions such as large age gaps between enrolment and testing, pose variations, occlusions, etc.
+Face recognition technology raises significant privacy concerns, has several limitations in terms of bias in demographic groups (e.g., ethnicity and gender), and lack of performance in challenging conditions such as large age gaps between enrolment and testing, pose variations, occlusions, etc.
 
 The results achieved in the proposed challenge will allow to analyse in detail the improvements achieved while using synthetic data and the state-of-the-art performance of current face recognition technology in realistic operational scenarios, extracting very valuable contributions to advance in the field.
+
+Register to FRCSyn [here](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url).
 
 # Important Dates
 
