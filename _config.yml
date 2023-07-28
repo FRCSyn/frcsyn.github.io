@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-cayman
+title: FRCSyn
+description: Face Recognition Challenge in the Era of Synthetic Data (FRCSyn) - Webpage 
+
+show_downloads: false
