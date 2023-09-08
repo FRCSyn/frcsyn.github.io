@@ -35,11 +35,32 @@ TBD
 TBD
 
 ### Organizers
-<div width="33%">
-  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-  <p><b>Pietro Melzi</b></p>
-  <p>Universidad Autonoma de Madrid, Spain</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <div width="33%">
+        <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
+        <p><b>Pietro Melzi</b></p>
+        <p>Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+    <td>
+      <div width="33%">
+        <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
+        <p><b>Pietro Melzi</b></p>
+        <p>Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+    <td>
+      <div width="33%">
+        <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
+        <p><b>Pietro Melzi</b></p>
+        <p>Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <div width="33%">
   <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
