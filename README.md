@@ -39,53 +39,72 @@ TBD
   <tr>
     <td>
       <div>
-        <img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;">
-        <p><a href="https://scholar.google.com/citations?user=iGAKK84AAAAJ&hl=it&oi=ao">Pietro Melzi</a></p>
-        <p>Universidad Autonoma de Madrid, Spain</p>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://scholar.google.com/citations?user=iGAKK84AAAAJ&hl=it&oi=ao">Pietro Melzi</a></p>
+        <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
     <td>
       <div>
-        <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-        <p><b>Pietro Melzi</b></p>
-        <p>Universidad Autonoma de Madrid, Spain</p>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://mckim.dev/">Minchul Kim</a></p>
+        <p align="center">Michigan State University, US</p>
       </div>
     </td>
     <td>
       <div>
-        <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-        <p><b>Pietro Melzi</b></p>
-        <p>Universidad Autonoma de Madrid, Spain</p>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
+        <p align="center">Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <div>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://scholar.google.com/citations?user=_itMaUcAAAAJ&hl=it&oi=ao">Christian Rathgeb</a></p>
+        <p align="center">Hochschule Darmstadt, Germany</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://scholar.google.com/citations?user=KYMQ0tsAAAAJ&hl=it&oi=ao">Ruben Vera-Rodriguez</a></p>
+        <p align="center">Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://aythami.me/">Aythami Morales</a></p>
+        <p align="center">Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <div>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://www.cse.msu.edu/~liuxm/index2.html">Xiaoming Liu</a></p>
+        <p align="center">Michigan State University, US</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="http://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
+        <p align="center">Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+    <td>
+      <div>
+        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><a href="https://scholar.google.com/citations?user=LwiecBYAAAAJ&hl=en">Javier Ortega-Garcia</a></p>
+        <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
   </tr>
 </table>
-
-
-<div width="33%">
-  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-  <p><b>Minchul Kim</b></p>
-  <p>Michigan State University, US</p>
-</div>
-
-<div width="33%">
-  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-  <p><b>Ruben Tolosana</b></p>
-  <p>Universidad Autonoma de Madrid, Spain</p>
-</div>
-
-<div style="width:33%;">
-  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-  <p><b>Christian Rathgeb</b></p>
-  <p>Hochschule Darmstadt, Germany</p>
-</div>
-
-**Ruben Vera-Rodriguez** _ruben.vera@uam.es_
-
-**Aythami Morales** _aythami.morales@uam.es_
-
-**Xiaoming Liu** _liuxm@cse.msu.edu_
-
-**Julian Fierrez** _julian.fierrez@uam.es_
-
-**Javier Ortega-Garcia** _javier.ortega@uam.es_
