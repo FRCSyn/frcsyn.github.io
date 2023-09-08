@@ -37,21 +37,21 @@ TBD
 ### Organizers
 <table>
   <tr>
-    <td>
+    <td style="width:33%;">
       <div>
         <p align="center"><img src="/assets/images/Melzi.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=iGAKK84AAAAJ&hl=it&oi=ao">Pietro Melzi</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
-    <td>
+    <td style="width:33%;">
       <div>
         <p align="center"><img src="/assets/images/Kim.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://mckim.dev/">Minchul Kim</a></p>
         <p align="center">Michigan State University, US</p>
       </div>
     </td>
-    <td>
+    <td style="width:33%;">
       <div>
         <p align="center"><img src="/assets/images/Tolosana.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
