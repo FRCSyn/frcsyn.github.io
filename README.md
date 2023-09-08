@@ -39,21 +39,21 @@ TBD
   <tr>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Melzi.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=iGAKK84AAAAJ&hl=it&oi=ao">Pietro Melzi</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Kim.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://mckim.dev/">Minchul Kim</a></p>
         <p align="center">Michigan State University, US</p>
       </div>
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Tolosana.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
@@ -63,21 +63,21 @@ TBD
   <tr>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Rathgeb.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=_itMaUcAAAAJ&hl=it&oi=ao">Christian Rathgeb</a></p>
         <p align="center">Hochschule Darmstadt, Germany</p>
       </div>
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Vera.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=KYMQ0tsAAAAJ&hl=it&oi=ao">Ruben Vera-Rodriguez</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Morales.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://aythami.me/">Aythami Morales</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
@@ -87,21 +87,21 @@ TBD
   <tr>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Liu.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://www.cse.msu.edu/~liuxm/index2.html">Xiaoming Liu</a></p>
         <p align="center">Michigan State University, US</p>
       </div>
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Fierrez.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="http://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Ortega.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=LwiecBYAAAAJ&hl=en">Javier Ortega-Garcia</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
