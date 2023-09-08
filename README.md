@@ -35,10 +35,11 @@ TBD
 TBD
 
 ### Organizers
-<div style="width:33%">
-  <p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
-  **Pietro Melzi** 
-  Universidad Autonoma de Madrid</div>
+<div style="width:33%;">
+  <p align="center"><img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;"></p>
+  <p><b>Pietro Melzi</b></p>
+  <p>Universidad Autonoma de Madrid</p>
+</div>
 
 **Minchul Kim** _kimminc2@msu.edu_
 
