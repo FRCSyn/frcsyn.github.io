@@ -36,16 +36,28 @@ TBD
 
 ### Organizers
 <div style="width:33%;">
-  <p align="center"><img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;"></p>
+  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
   <p><b>Pietro Melzi</b></p>
-  <p>Universidad Autonoma de Madrid</p>
+  <p>Universidad Autonoma de Madrid, Spain</p>
 </div>
 
-**Minchul Kim** _kimminc2@msu.edu_
+<div style="width:33%;">
+  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
+  <p><b>Minchul Kim</b></p>
+  <p>Michigan State University, US</p>
+</div>
 
-**Ruben Tolosana** _ruben.tolosana@uam.es_
+<div style="width:33%;">
+  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
+  <p><b>Ruben Tolosana</b></p>
+  <p>Universidad Autonoma de Madrid, Spain</p>
+</div>
 
-**Christian Rathgeb** _christian.rathgeb@h-da.de_
+<div style="width:33%;">
+  <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
+  <p><b>Christian Rathgeb</b></p>
+  <p>Hochschule Darmstadt, Germany</p>
+</div>
 
 **Ruben Vera-Rodriguez** _ruben.vera@uam.es_
 
