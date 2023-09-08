@@ -38,21 +38,21 @@ TBD
 <table>
   <tr>
     <td>
-      <div width="33%">
+      <div>
+        <img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;">
+        <p><a href="https://scholar.google.com/citations?user=iGAKK84AAAAJ&hl=it&oi=ao">Pietro Melzi</a></p>
+        <p>Universidad Autonoma de Madrid, Spain</p>
+      </div>
+    </td>
+    <td>
+      <div>
         <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
         <p><b>Pietro Melzi</b></p>
         <p>Universidad Autonoma de Madrid, Spain</p>
       </div>
     </td>
     <td>
-      <div width="33%">
-        <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
-        <p><b>Pietro Melzi</b></p>
-        <p>Universidad Autonoma de Madrid, Spain</p>
-      </div>
-    </td>
-    <td>
-      <div width="33%">
+      <div>
         <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
         <p><b>Pietro Melzi</b></p>
         <p>Universidad Autonoma de Madrid, Spain</p>
