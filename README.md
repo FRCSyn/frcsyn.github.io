@@ -1,6 +1,6 @@
 Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**.
 
-<center><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png" style="width:60%;height:auto;"></center>
+<div style="text-align: center;"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png" style="width:55%;height:auto;"></div>
 
 ### Challenge
 To promote and advance the use of synthetic data for face recognition, we organize the **Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)**. This challenge intends to provide an in-depth analysis of the following research questions:
@@ -10,9 +10,8 @@ To promote and advance the use of synthetic data for face recognition, we organi
 
 Face recognition technology raises significant **privacy concerns**, has several limitations in terms of **bias in demographic groups** (e.g., ethnicity and gender), and lack of performance in **challenging conditions** such as large age gaps between enrolment and testing, pose variations, occlusions, etc. 
 
-Here we show a few examples of synthetic identities and the intra-class variation provided by FRCSyn for training face recognition systems.
-
-<center><img src="/assets/images/intraclass.jpg" style="width:60%;height:auto;"></center>
+Here we show a few examples of synthetic identities and the intra-class variation provided by FRCSyn for training face recognition systems:
+<div style="text-align: center;"><img src="/assets/images/intraclass.jpg" style="width:70%;height:auto;"></div>
 
 The challenge's results will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology **in realistic scenarios**, providing valuable contributions to advance the field.
 
