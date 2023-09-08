@@ -1,4 +1,4 @@
-Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**.
+Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. SIgn up [here](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) to join FRCSyn. The challenge is hosted on codalab at: (link not available yet). 
 
 <p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png" style="width:45%;height:auto;"></p>
 
@@ -16,8 +16,6 @@ Here we show a few examples of **synthetic identities** and the **intra-class va
 The challenge's results will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology **in realistic scenarios**, providing valuable contributions to advance the field. 
 
 **The best teams will be invited to contribute to the challenge paper**.
-
-Register to FRCSyn [here](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) and take part into the challenge, hosted on codalab at: (not available yet). 
 
 ### News
 - **10 Sep 2023** Website is live!
