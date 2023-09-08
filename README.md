@@ -8,7 +8,7 @@ To promote and advance the use of synthetic data for face recognition, we organi
 - What are the limits of face recognition technology trained only with synthetic data?
 - Can the use of synthetic data be beneficial to reduce the current limitations existed in face recognition technology?
 
-![Examples of synthetic identities (one for each row) and intra-class variations.](/assets/images/intraclass.pdf)
+![Examples of synthetic identities and intra-class variations.](/assets/images/intraclass.pdf)
 
 Face recognition technology raises significant **privacy concerns**, has several limitations in terms of **bias in demographic groups** (e.g., ethnicity and gender), and lack of performance in **challenging conditions** such as large age gaps between enrolment and testing, pose variations, occlusions, etc.
 
