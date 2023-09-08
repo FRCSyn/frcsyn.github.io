@@ -37,7 +37,7 @@ TBD
 ### Organizers
 <table>
   <tr>
-    <td style="width:33%;">
+    <td width="33%">
       <div>
         <p align="center"><img src="/assets/images/Melzi.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=iGAKK84AAAAJ&hl=it&oi=ao">Pietro Melzi</a></p>
