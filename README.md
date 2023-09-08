@@ -1,6 +1,6 @@
 Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**.
 
-<img src="[https://github.com/favicon.ico](https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png)" width="48">
+<img src="[https://github.com/favicon.ico](https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png)" width="24">
 
 ### Challenge
 To promote and advance the use of synthetic data for face recognition, we organize the **Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)**. This challenge intends to provide an in-depth analysis of the following research questions:
