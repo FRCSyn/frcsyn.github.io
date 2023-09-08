@@ -35,19 +35,19 @@ TBD
 TBD
 
 ### Organizers
-<div style="width:33%;">
+<div width="33%">
   <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
   <p><b>Pietro Melzi</b></p>
   <p>Universidad Autonoma de Madrid, Spain</p>
 </div>
 
-<div style="width:33%;">
+<div width="33%">
   <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
   <p><b>Minchul Kim</b></p>
   <p>Michigan State University, US</p>
 </div>
 
-<div style="width:33%;">
+<div width="33%">
   <img src="/assets/images/intraclass.jpg" style="width:30%;height:auto;">
   <p><b>Ruben Tolosana</b></p>
   <p>Universidad Autonoma de Madrid, Spain</p>
