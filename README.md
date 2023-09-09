@@ -4,6 +4,8 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
 
 Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) to join FRCSyn. The challenge is hosted on codalab at: (link not available yet). 
 
+**The best teams will be invited to contribute to the challenge paper**.
+
 ### Challenge
 To promote and advance the use of synthetic data for face recognition, we organize the **Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)**. This challenge intends to provide an in-depth analysis of the following research questions:
 
@@ -16,8 +18,6 @@ Here we show a few examples of **synthetic identities** and the **intra-class va
 <p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
 
 The challenge's results will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology **in realistic scenarios**, providing valuable contributions to advance the field. 
-
-**The best teams will be invited to contribute to the challenge paper**.
 
 ### News
 - **10 Sep 2023** Website is live!
