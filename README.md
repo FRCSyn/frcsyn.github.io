@@ -146,3 +146,34 @@ TBD
     </td>
   </tr>
 </table>
+
+### Fundings
+
+<table>
+  <tr>
+    <td width="50%">
+      <div>
+        <p align="center"><img src="/assets/images/comunidad.png" style="width:70%;height:auto;"></p>
+      </div>
+    </td>
+    <td width="50%">
+      <div>
+        <p align="center"><img src="/assets/images/gobierno.png" style="width:70%;height:auto;"></p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <div>
+        <p align="center"><img src="/assets/images/european.png" style="width:70%;height:auto;"></p>
+      </div>
+    </td>
+    <td width="50%">
+      <div>
+        <p align="center"><img src="/assets/images/trespass.png" style="width:70%;height:auto;"></p>
+      </div>
+    </td>
+  </tr>
+
+</table>
