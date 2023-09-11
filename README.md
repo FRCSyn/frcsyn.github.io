@@ -1,25 +1,43 @@
-<p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png" style="width:35%;height:auto;"></p>
-
 Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
 
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) to join FRCSyn. The challenge is hosted on codalab at: (link not available yet). 
+<p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png" style="width:35%;height:auto;"></p>
 
-**The best teams will be invited to contribute to the challenge paper**.
+<p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
 
-### Challenge
+This challenge intends to **explore the application of synthetic data to the field of face recognition** in order to find solutions to the current limitations existed in the technology, for example, in terms of **privacy concerns** associated with real data, **bias in demographic groups** (e.g., ethnicity and gender), and **lack of performance in challenging conditions** such as large age gaps between enrolment and testing, pose variations, occlusions etc.
+
 To promote and advance the use of synthetic data for face recognition, we organize the **Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)**. This challenge intends to provide an in-depth analysis of the following research questions:
 
 - What are the limits of face recognition technology trained only with synthetic data?
 - Can the use of synthetic data be beneficial to reduce the current limitations existed in face recognition technology?
 
-Face recognition technology raises significant **privacy concerns**, has several limitations in terms of **bias in demographic groups** (e.g., ethnicity and gender), and lack of performance in **challenging conditions** such as large age gaps between enrolment and testing, pose variations, occlusions, etc. 
+FRCSyn challenge will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology in **realistic scenarios**, providing valuable contributions to advance the field.
 
-Here we show a few examples of **synthetic identities** and the **intra-class variation** provided by FRCSyn for training face recognition systems:
-<p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
+### Tasks
 
-The challenge's results will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology **in realistic scenarios**, providing valuable contributions to advance the field. 
+The proposed FRCSyn challenge intends to investigate the benefits of synthetic data for face
+recognition. In particular, **in FRCSyn we focus on the two following challenges** existed in
+current face recognition technology:
+
+- **Task 1**: synthetic data for **demographic bias mitigation**.
+- **Task 2**: synthetic data for **overall performance improvement** (e.g., age, pose, expression, occlusion, demographic groups, etc.).
+  
+**Within each task, there are two sub-tasks that propose alternative approaches for
+training face recognition technology**: one exclusively with synthetic data and the other with a possible combination of real and synthetic data.
+
+### Registration
+
+**The platform used in FRCSyn Challenge is CodaLab. Participants need to register to take part in thechallenge**. Please, follow the instructions:
+
+1. Fill up [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) including your information.
+2. Sign up in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485) using **the same email** introduced in step 1).
+3. Join in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485) the [FRCSyn Challenge](https://frcsyn.github.io/). Just click in the "Participate" tab for the registration.
+
+### Paper
+The **best teams** of each sub-task will be invited to **contribute as co-authors in the summary paper of the FRCSyn challenge**. This paper will be **published in the proceedings of the WACV 2024 conference**. In addition, **top performers will be invited to present their methods at the workshop. This presentation can be virtual**.
 
 ### News
+- **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
 
 ### Important Dates
