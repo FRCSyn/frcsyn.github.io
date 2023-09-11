@@ -25,6 +25,18 @@ current face recognition technology:
 **Within each task, there are two sub-tasks that propose alternative approaches for
 training face recognition technology**: one exclusively with synthetic data and the other with a possible combination of real and synthetic data.
 
+### Synthetic Databases
+
+In the FRCSyn Challenge, **we will provide participants with our synthetic datasets after registration in the challenge**. They are based on our two recent approaches:
+
+**DCFace**: a novel framework entirely based on Diffusion models, composed of i) a sampling stage for the generation of synthetic identities X<sub>ID</sub>, and ii) a mixing stage for the generation of images X<sub>ID,sty</sub> with the same identities XID from the sampling stage and the style selected from a “style bank” of images <sub>Xsty</sub>. 
+
+[Reference](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_DCFace_Synthetic_Face_Generation_With_Dual_Condition_Diffusion_Model_CVPR_2023_paper.html) M. Kim, F. Liu, A. Jain and X. Liu, “DCFace: Synthetic Face Generation with Dual Condition Diffusion Model”, in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2023. 
+
+**GANDiffFace**: a novel framework based on GANs and Diffusion models that provides fully-synthetic face recognition datasets with the desired properties of human face realism, controllable demographic distributions, and realistic intra-class variations. 
+
+[Reference](https://arxiv.org/abs/2305.19962) P. Melzi, C. Rathgeb, R. Tolosana, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert, “GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations”, in *Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops*, 2023. 
+
 ### Registration
 
 **The platform used in FRCSyn Challenge is CodaLab. Participants need to register to take part in thechallenge**. Please, follow the instructions:
@@ -34,25 +46,31 @@ training face recognition technology**: one exclusively with synthetic data and 
 3. Join in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485) the [FRCSyn Challenge](https://frcsyn.github.io/). Just click in the "Participate" tab for the registration.
 
 ### Paper
+
 The **best teams** of each sub-task will be invited to **contribute as co-authors in the summary paper of the FRCSyn challenge**. This paper will be **published in the proceedings of the WACV 2024 conference**. In addition, **top performers will be invited to present their methods at the workshop. This presentation can be virtual**.
 
 ### News
+
 - **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
 
 ### Important Dates
+
 - **13 Sep 2023** FRCSyn starts
 - **23 Oct 2023** FRCSyn ends
 - **26 Oct 2023** Announcement of winning teams
 - **19 Nov 2023** Paper submission with results of the challenge 
 
 ### Schedule
+
 TBD
 
 ### Keynote Speakers
+
 TBD
 
 ### Organizers
+
 <table>
   <tr>
     <td width="33%">
@@ -119,7 +137,7 @@ TBD
     </td>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/Ortega.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/Ortega.png" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://scholar.google.com/citations?user=LwiecBYAAAAJ&hl=en">Javier Ortega-Garcia</a></p>
         <p align="center">Universidad Autonoma de Madrid, Spain</p>
       </div>
