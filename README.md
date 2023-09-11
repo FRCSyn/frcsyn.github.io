@@ -44,6 +44,8 @@ In the FRCSyn Challenge, **we will provide participants with our synthetic datas
 1. Fill up [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) including your information.
 2. Sign up in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485) using **the same email** introduced in step 1).
 3. Join in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485) the [FRCSyn Challenge](https://frcsyn.github.io/). Just click in the "Participate" tab for the registration.
+4. We will give you access once we check everything is correct.
+5. You will receive an email with all the instructions to kickstart FRCSyn, including links to download datasets, experimental protocol, and an example of submission file.
 
 ### Paper
 
