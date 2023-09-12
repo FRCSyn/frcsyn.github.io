@@ -4,9 +4,9 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
 
 <p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
 
-This challenge intends to **explore the application of synthetic data to the field of face recognition** in order to find solutions to the current limitations existed in the technology, for example, in terms of **privacy concerns** associated with real data, **bias in demographic groups** (e.g., ethnicity and gender), and **lack of performance in challenging conditions** such as large age gaps between enrolment and testing, pose variations, occlusions etc.
+To promote and advance the use of synthetic data for face recognition, we organize the **Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)**. This challenge intends to **explore the application of synthetic data to the field of face recognition** in order to find solutions to the current limitations existed in the technology, for example, in terms of **privacy concerns** associated with real data, **bias in demographic groups** (e.g., ethnicity and gender), and **lack of performance in challenging conditions** such as large age gaps between enrolment and testing, pose variations, occlusions etc.
 
-To promote and advance the use of synthetic data for face recognition, we organize the **Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)**. This challenge intends to provide an in-depth analysis of the following research questions:
+This challenge intends to provide an in-depth analysis of the following research questions:
 
 - What are the limits of face recognition technology trained only with synthetic data?
 - Can the use of synthetic data be beneficial to reduce the current limitations existed in face recognition technology?
@@ -15,8 +15,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 
 ### Tasks
 
-The proposed FRCSyn challenge intends to investigate the benefits of synthetic data for face
-recognition. In particular, **in FRCSyn we focus on the two following challenges** existed in
+**The FRCSyn challenge focuses on the two following challenges** existed in
 current face recognition technology:
 
 - **Task 1**: synthetic data for **demographic bias mitigation**.
@@ -25,11 +24,11 @@ current face recognition technology:
 **Within each task, there are two sub-tasks that propose alternative approaches for
 training face recognition technology**: one exclusively with synthetic data and the other with a possible combination of real and synthetic data.
 
-### Synthetic Databases
+### Synthetic Datasets
 
 In the FRCSyn Challenge, **we will provide participants with our synthetic datasets after registration in the challenge**. They are based on our two recent approaches:
 
-**DCFace**: a novel framework entirely based on Diffusion models, composed of i) a sampling stage for the generation of synthetic identities X<sub>ID</sub>, and ii) a mixing stage for the generation of images X<sub>ID,sty</sub> with the same identities XID from the sampling stage and the style selected from a “style bank” of images <sub>Xsty</sub>. 
+**DCFace**: a novel framework entirely based on Diffusion models, composed of i) a sampling stage for the generation of synthetic identities X<sub>ID</sub>, and ii) a mixing stage for the generation of images X<sub>ID,sty</sub> with the same identities X<sub>ID</sub> from the sampling stage and the style selected from a “style bank” of images <sub>Xsty</sub>. 
 
 [Reference](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_DCFace_Synthetic_Face_Generation_With_Dual_Condition_Diffusion_Model_CVPR_2023_paper.html) M. Kim, F. Liu, A. Jain and X. Liu, “DCFace: Synthetic Face Generation with Dual Condition Diffusion Model”, in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2023. 
 
@@ -39,7 +38,7 @@ In the FRCSyn Challenge, **we will provide participants with our synthetic datas
 
 ### Registration
 
-**The platform used in FRCSyn Challenge is CodaLab. Participants need to register to take part in thechallenge**. Please, follow the instructions:
+**The platform used in FRCSyn Challenge is CodaLab. Participants need to register to take part in the challenge**. Please, follow the instructions:
 
 1. Fill up [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8U80MRf5gk5c0QbGxF76TshaxmThVymeHWXUocSyXRkSiMA/viewform?usp=pp_url) including your information.
 2. Sign up in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485) using **the same email** introduced in step 1).
