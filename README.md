@@ -32,7 +32,7 @@ In the FRCSyn Challenge, **we will provide participants with our synthetic datas
 
 [Reference](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_DCFace_Synthetic_Face_Generation_With_Dual_Condition_Diffusion_Model_CVPR_2023_paper.html) M. Kim, F. Liu, A. Jain and X. Liu, “DCFace: Synthetic Face Generation with Dual Condition Diffusion Model”, in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2023. 
 
-**GANDiffFace**: a novel framework based on GANs and Diffusion models that provides fully-synthetic face recognition datasets with the desired properties of human face realism, controllable demographic distributions, and realistic intra-class variations. 
+**GANDiffFace**: a novel framework based on GANs and Diffusion models that provides fully-synthetic face recognition datasets with the desired properties of human face realism, controllable demographic distributions, and realistic intra-class variations. **Best Paper Award at AMFG @ ICCV 2023.**
 
 [Reference](https://arxiv.org/abs/2305.19962) P. Melzi, C. Rathgeb, R. Tolosana, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert, “GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations”, in *Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops*, 2023. 
 
@@ -52,14 +52,15 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 ### News
 
+- **10 Oct 2023** Deadline extended to 30 October
 - **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
 
 ### Important Dates
 
 - **13 Sep 2023** FRCSyn starts
-- **23 Oct 2023** FRCSyn ends
-- **26 Oct 2023** Announcement of winning teams
+- **30 Oct 2023** FRCSyn ends
+- **3 Nov 2023** Announcement of winning teams
 - **19 Nov 2023** Paper submission with results of the challenge 
 
 ### Schedule
