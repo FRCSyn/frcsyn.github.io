@@ -60,7 +60,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 - **13 Sep 2023** FRCSyn starts
 - **30 Oct 2023** FRCSyn ends
-- **3 Nov 2023** Announcement of winning teams
+- **2 Nov 2023** Announcement of winning teams
 - **19 Nov 2023** Paper submission with results of the challenge 
 
 ### Schedule
