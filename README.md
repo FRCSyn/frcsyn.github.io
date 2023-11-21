@@ -1,6 +1,8 @@
 Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
 
-<p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/04/WACV-Logo_2024-1024x263.png" style="width:35%;height:auto;"></p>
+**The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**
+
+<p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/09/WACV-Logo_2024-1024x243.png" style="width:35%;height:auto;"></p>
 
 <p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
 
@@ -52,6 +54,8 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 ### News
 
+- **20 Nov 2023** Summary paper available on arxiv
+- **30 Oct 2023** FRCSyn Challenge ends
 - **10 Oct 2023** Deadline extended to 30 October
 - **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
