@@ -127,7 +127,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
   <tr>
     <td>12:00 – 12:45 </td>
     <td>45 min </td>
-    <td>Keynote 3: <a href="https://www.cse.msu.edu/~liuxm/index2.html">Xiaoming Liu</a> </td>
+    <td>Keynote 3: <a href="https://cvlab.cse.msu.edu/">Xiaoming Liu</a> </td>
   </tr>
   <tr>
     <td>12:45 – 12:55 </td>
