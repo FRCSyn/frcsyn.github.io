@@ -95,42 +95,42 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
     <td>Keynote 2: <a href="https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=it&oi=ao">Fernando De la Torre</a> </td>
   </tr>
   <tr>
-    <td>10:00 – 10:10 </td>
-    <td>10 min </td>
+    <td>10:00 – 10:15 </td>
+    <td>15 min </td>
     <td>1st Break </td>
   </tr>
   <tr>
-    <td>10:10 – 10:30 </td>
+    <td>10:15 – 10:35 </td>
     <td>20 min </td>
     <td>FRCSyn Challenge </td>
   </tr>
   <tr>
-    <td>10:30 – 11:05 </td>
+    <td>10:35 – 11:10 </td>
     <td>35 min </td>
     <td>Top-ranked Teams (5) </td>
   </tr>
   <tr>
-    <td>11:05 – 11:20 </td>
+    <td>11:10 – 11:25 </td>
     <td>15 min </td>
     <td>Notable Teams (3) </td>
   </tr>
   <tr>
-    <td>11:20 – 11:40 </td>
+    <td>11:25 – 11:45 </td>
     <td>20 min </td>
     <td>FRCSyn Challenge: Q&amp;A </td>
   </tr>
   <tr>
-    <td>11:40 – 11:50 </td>
-    <td>10 min </td>
+    <td>11:45 – 12:00 </td>
+    <td>15 min </td>
     <td>2nd Break </td>
   </tr>
   <tr>
-    <td>11:50 – 12:35 </td>
+    <td>12:00 – 12:45 </td>
     <td>45 min </td>
     <td>Keynote 3: <a href="https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=it&oi=ao">Xiaoming Liu</a> </td>
   </tr>
   <tr>
-    <td>12:35 – 12:45 </td>
+    <td>12:45 – 12:55 </td>
     <td>10 min </td>
     <td>Closing Notes </td>
   </tr>
