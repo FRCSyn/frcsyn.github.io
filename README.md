@@ -15,6 +15,15 @@ This challenge intends to provide an in-depth analysis of the following research
 
 FRCSyn challenge will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology in **realistic scenarios**, providing valuable contributions to advance the field.
 
+### News
+
+- **30 Nov 2023** Schedule for the Workshop is available  
+- **20 Nov 2023** Summary paper available on arxiv
+- **30 Oct 2023** FRCSyn Challenge ends
+- **10 Oct 2023** Deadline extended to 30 October
+- **13 Sep 2023** FRCSyn Challenge starts
+- **10 Sep 2023** Website is live!
+
 ### Tasks
 
 **The FRCSyn challenge focuses on the two following challenges** existed in
@@ -52,14 +61,6 @@ In the FRCSyn Challenge, **we will provide participants with our synthetic datas
 
 The **best teams** of each sub-task will be invited to **contribute as co-authors in the summary paper of the FRCSyn challenge**. This paper will be **published in the proceedings of the WACV 2024 conference**. In addition, **top performers will be invited to present their methods at the workshop. This presentation can be virtual**.
 
-### News
-
-- **20 Nov 2023** Summary paper available on arxiv
-- **30 Oct 2023** FRCSyn Challenge ends
-- **10 Oct 2023** Deadline extended to 30 October
-- **13 Sep 2023** FRCSyn Challenge starts
-- **10 Sep 2023** Website is live!
-
 ### Important Dates
 
 - **13 Sep 2023** FRCSyn starts
@@ -69,7 +70,72 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 ### Schedule
 
-TBD
+<table>
+<thead>
+  <tr>
+    <th>Time (HST) </th>
+    <th>Duration </th>
+    <th>Activity </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:20 – 8:30 </td>
+    <td>10 mins </td>
+    <td>Introduction </td>
+  </tr>
+  <tr>
+    <td>8:30 – 9:15 </td>
+    <td>45 min </td>
+    <td>Keynote 1: <a href="https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=it&oi=ao">Fernando De la Torre</a> </td>
+  </tr>
+  <tr>
+    <td>9:15 – 10:00 </td>
+    <td>45 min </td>
+    <td>Keynote 2: <a href="https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=it&oi=ao">Xiaoming Liu</a> </td>
+  </tr>
+  <tr>
+    <td>10:00 – 10:10 </td>
+    <td>10 min </td>
+    <td>1st Break </td>
+  </tr>
+  <tr>
+    <td>10:10 – 10:30 </td>
+    <td>20 min </td>
+    <td>FRCSyn Challenge </td>
+  </tr>
+  <tr>
+    <td>10:30 – 11:05 </td>
+    <td>35 min </td>
+    <td>Top-ranked Teams (5) </td>
+  </tr>
+  <tr>
+    <td>11:05 – 11:20 </td>
+    <td>15 min </td>
+    <td>Notable Teams (3) </td>
+  </tr>
+  <tr>
+    <td>11:20 – 11:40 </td>
+    <td>20 min </td>
+    <td>FRCSyn Challenge: Q&amp;A </td>
+  </tr>
+  <tr>
+    <td>11:40 – 11:50 </td>
+    <td>10 min </td>
+    <td>2nd Break </td>
+  </tr>
+  <tr>
+    <td>11:50 – 12:35 </td>
+    <td>45 min </td>
+    <td>Keynote 3: TBD </td>
+  </tr>
+  <tr>
+    <td>12:35 – 12:45 </td>
+    <td>10 min </td>
+    <td>Closing Notes </td>
+  </tr>
+</tbody>
+</table>
 
 ### Keynote Speakers
 
