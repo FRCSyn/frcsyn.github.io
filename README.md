@@ -87,12 +87,12 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
   <tr>
     <td>8:30 – 9:15 </td>
     <td>45 min </td>
-    <td>Keynote 1: <a href="https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=it&oi=ao">Fernando De la Torre</a> </td>
+    <td>Keynote 1: <a href="https://scholar.google.com/citations?user=GB7NfS4AAAAJ&hl=it&oi=ao">Koki Nagano</a> </td>
   </tr>
   <tr>
     <td>9:15 – 10:00 </td>
     <td>45 min </td>
-    <td>Keynote 2: <a href="https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=it&oi=ao">Xiaoming Liu</a> </td>
+    <td>Keynote 2: <a href="https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=it&oi=ao">Fernando De la Torre</a> </td>
   </tr>
   <tr>
     <td>10:00 – 10:10 </td>
@@ -127,7 +127,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
   <tr>
     <td>11:50 – 12:35 </td>
     <td>45 min </td>
-    <td>Keynote 3: TBD </td>
+    <td>Keynote 3: <a href="https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=it&oi=ao">Xiaoming Liu</a> </td>
   </tr>
   <tr>
     <td>12:35 – 12:45 </td>
