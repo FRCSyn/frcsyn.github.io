@@ -17,7 +17,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 
 ### News
 
-- **30 Nov 2023** Schedule for the Workshop is available  
+- **30 Nov 2023** <a href="#schedule">Schedule for the Workshop is available</a>  
 - **20 Nov 2023** Summary paper available on arxiv
 - **30 Oct 2023** FRCSyn Challenge ends
 - **10 Oct 2023** Deadline extended to 30 October
@@ -69,7 +69,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 - **19 Nov 2023** Paper submission with results of the challenge 
 
 ### Schedule
-
+<div id="schedule">Destination</div>
 <table>
 <thead>
   <tr>
