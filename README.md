@@ -71,6 +71,9 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 ### Results
 
+To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy, defined as the difference between the average and standard deviation of accuracy across demographic groups. To determine the winners of sub-tasks 2.1 and 2.2 we consider the average of verification accuracy across datasets.
+
+<p>Task 1.1 - synthetic data for bias mitigation</p>
 <table>
 <thead>
   <tr>
@@ -152,6 +155,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 </tbody>
 </table>
 
+<p>Task 1.2 - mixed data for bias mitigation</p>
 <table>
 <thead>
   <tr>
@@ -245,6 +249,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 </tbody>
 </table>
 
+<p>Task 2.1 - syn. data for performance improvement</p>
 <table>
 <thead>
   <tr>
@@ -324,6 +329,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 </tbody>
 </table>
 
+<p>Task 2.2 - mixed data for performance improvement</p>
 <table>
 <thead>
   <tr>
@@ -403,11 +409,39 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 </tbody>
 </table>
 
-
-
-
-
 ### Top Teams
+
+**CBSR** <br>
+Weisong Zhao, Xiangyu Zhu, Zheyu Yan, Xiao-Yu Zhang, Jinlin Wu, Zhen Lei<br>
+IIE, CAS, China; School of Cyber Security, UCAS, China; MAIS, CASIA, China; School of Artificial Intelligence, UCAS, China; CAIR, HKISI, CAS, China<br>
+
+**LENS**<br>
+Suvidha Tripathi, Mahak Kothari, Md Haider Zama, Debayan Deb<br>
+LENS, Inc., US<br>
+
+**BOVIFOCR-UFPR**<br>
+Bernardo Biesseck, Pedro Vidal, Roger Granada, Guilherme Fickel, Gustavo Führ, David Menotti<br>
+Federal University of Parana, Curitiba, PR, Brazil; Federal Institute of Mato Grosso, Pontes e Lacerda, Brazil; unico - idTech, Brazil<br>
+
+**Idiap**<br>
+Alexander Unnervik, Anjith George, Christophe Ecabert, Hatef Otroshi Shahreza, Parsa Rahimi, Sébastien Marcel<br>
+Idiap Research Institute, Switzerland; Ecole Polytechnique Fédérale de Lausanne, Switzerland; Universite de Lausanne, Switzerland<br>
+
+**MeVer**<br>
+Ioannis Sarridis, Christos Koutlis, Georgia Baltsou, Symeon Papadopoulos, Christos Diou<br>
+Centre for Research and Technology Hellas, Greece; Harokopio University of Athens, Greece<br>
+
+**BioLab**<br>
+Nicolò Di Domenico, Guido Borghi, Lorenzo Pellegrini<br>
+University of Bologna, Cesena Campus, Italy<br>
+
+**Aphi**<br>
+Enrique Mas-Candela, Ángela Sánchez-Pérez<br>
+Facephi, Spain<br>
+
+**UNICA-FRAUNHOFER IGD**<br>
+Andrea Atzori, Fadi Boutros, Naser Damer, Gianni Fenu, Mirko Marras<br>
+University of Cagliari, Italy; Fraunhofer IGD, Germany; TU Darmstadt, Germany<br>
 
 
 ### Schedule
