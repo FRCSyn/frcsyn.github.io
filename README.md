@@ -73,7 +73,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy, defined as the difference between the average and standard deviation of accuracy across demographic groups. To determine the winners of sub-tasks 2.1 and 2.2 we consider the average of verification accuracy across datasets.
 
-<p align="center"><strong>Task 1.1 - synthetic data for bias mitigation</strong>strong></p>
+<p align="center"><strong>Task 1.1 - synthetic data for bias mitigation</strong></p>
 <table>
 <thead>
   <tr>
@@ -155,7 +155,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-<p align="center"><strong>Task 1.2 - mixed data for bias mitigation</strong>strong></p>
+<p align="center"><strong>Task 1.2 - mixed data for bias mitigation</strong></p>
 <table>
 <thead>
   <tr>
@@ -249,7 +249,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-<p align="center"><strong>Task 2.1 - syn. data for performance improvement</strong>strong></p>
+<p align="center"><strong>Task 2.1 - syn. data for performance improvement</strong></p>
 <table>
 <thead>
   <tr>
@@ -329,7 +329,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-<p align="center"><strong>Task 2.2 - mixed data for performance improvement</strong>strong></p>
+<p align="center"><strong>Task 2.2 - mixed data for performance improvement</strong></p>
 <table>
 <thead>
   <tr>
