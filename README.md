@@ -69,11 +69,11 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 - **19 Nov 2023** Paper submission with results of the challenge
 - **8 Jan 2024** FRCSyn Workshop at WACV 2024
 
-### Results
+### FRCSyn at WACV 2024: Results
 
 To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy, defined as the difference between the average and standard deviation of accuracy across demographic groups. To determine the winners of sub-tasks 2.1 and 2.2 we consider the average of verification accuracy across datasets.
 
-<p>Task 1.1 - synthetic data for bias mitigation</p>
+<p align="center"><strong>Task 1.1 - synthetic data for bias mitigation</strong>strong></p>
 <table>
 <thead>
   <tr>
@@ -155,7 +155,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-<p>Task 1.2 - mixed data for bias mitigation</p>
+<p align="center"><strong>Task 1.2 - mixed data for bias mitigation</strong>strong></p>
 <table>
 <thead>
   <tr>
@@ -249,7 +249,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-<p>Task 2.1 - syn. data for performance improvement</p>
+<p align="center"><strong>Task 2.1 - syn. data for performance improvement</strong>strong></p>
 <table>
 <thead>
   <tr>
@@ -329,7 +329,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-<p>Task 2.2 - mixed data for performance improvement</p>
+<p align="center"><strong>Task 2.2 - mixed data for performance improvement</strong>strong></p>
 <table>
 <thead>
   <tr>
@@ -409,7 +409,7 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
 </tbody>
 </table>
 
-### Top Teams
+### FRCSyn at WACV 2024: Top Teams
 
 **CBSR** <br>
 Weisong Zhao, Xiangyu Zhu, Zheyu Yan, Xiao-Yu Zhang, Jinlin Wu, Zhen Lei<br>
