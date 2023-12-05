@@ -1,4 +1,4 @@
-Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
+Welcome to **[FRCSyn](https://codalab.lisn.upsaclay.fr/competitions/15485)**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
 
 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**
 
@@ -18,7 +18,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 ### News
 
 - **30 Nov 2023** <a href="#schedule">Schedule for the Workshop is available</a>  
-- **20 Nov 2023** Summary paper available on arxiv
+- **20 Nov 2023** Summary paper available on [arxiv](https://arxiv.org/abs/2311.10476)
 - **30 Oct 2023** FRCSyn Challenge ends
 - **10 Oct 2023** Deadline extended to 30 October
 - **13 Sep 2023** FRCSyn Challenge starts
