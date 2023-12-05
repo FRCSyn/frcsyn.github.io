@@ -18,7 +18,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 ### News
 
 - **30 Nov 2023** <a href="#schedule">Schedule for the Workshop is available</a>  
-- **20 Nov 2023** Summary paper available on [arxiv](https://arxiv.org/abs/2311.10476)
+- **20 Nov 2023** [Summary paper available on arxiv](https://arxiv.org/abs/2311.10476)
 - **30 Oct 2023** FRCSyn Challenge ends
 - **10 Oct 2023** Deadline extended to 30 October
 - **13 Sep 2023** FRCSyn Challenge starts
@@ -66,7 +66,148 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 - **13 Sep 2023** FRCSyn starts
 - **30 Oct 2023** FRCSyn ends
 - **2 Nov 2023** Announcement of winning teams
-- **19 Nov 2023** Paper submission with results of the challenge 
+- **19 Nov 2023** Paper submission with results of the challenge
+- **8 Jan 2024** FRCSyn Workshop at WACV 2024
+
+### Results
+
+<table>
+<thead>
+  <tr>
+    <th>Task 1.1 - synthetic data for bias mitigation</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">#</td>
+    <td rowspan="2">User</td>
+    <td rowspan="2">Entries</td>
+    <td rowspan="2">Date of Last Entry</td>
+    <td rowspan="2">Team Name</td>
+    <td rowspan="2">Trade-off Accuracy (AVG - STD) [%] </td>
+    <td rowspan="2">AVG Accuracy [%] </td>
+    <td rowspan="2">STD Accuracy [%] </td>
+    <td rowspan="2">FNMR@ FMR=1% </td>
+    <td rowspan="2">FNMR@ FMR=0.1% </td>
+    <td rowspan="2">FNMR@ FMR=0.01% </td>
+    <td rowspan="2">Gap to Real [%] </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>lens</td>
+    <td>44</td>
+    <td>10/30/23</td>
+    <td></td>
+    <td>92.25 (1)</td>
+    <td>93.54 (1)</td>
+    <td>1.28 (3)</td>
+    <td>15.25 (2)</td>
+    <td>25.40 (2)</td>
+    <td>25.40 (2)</td>
+    <td>-0.74 (7)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>anjith2006</td>
+    <td>15</td>
+    <td>10/30/23</td>
+    <td>Idiap</td>
+    <td>91.88 (2)</td>
+    <td>93.41 (2)</td>
+    <td>1.53 (4)</td>
+    <td>13.97 (1)</td>
+    <td>24.32 (1)</td>
+    <td>24.32 (1)</td>
+    <td>-3.80 (4)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>bjgbiesseck</td>
+    <td>14</td>
+    <td>10/30/23</td>
+    <td>BOVIFOCR-UFPR</td>
+    <td>90.51 (3)</td>
+    <td>92.35 (3)</td>
+    <td>1.84 (5)</td>
+    <td>16.35 (3)</td>
+    <td>33.15 (3)</td>
+    <td>33.15 (3)</td>
+    <td>4.23 (9)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>ckoutlis</td>
+    <td>20</td>
+    <td>10/27/23</td>
+    <td>MeVer Lab</td>
+    <td>87.51 (4)</td>
+    <td>89.62 (4)</td>
+    <td>2.11 (6)</td>
+    <td>32.57 (5)</td>
+    <td>45.55 (5)</td>
+    <td>45.55 (5)</td>
+    <td>5.68 (10)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>asanchez</td>
+    <td>6</td>
+    <td>10/30/23</td>
+    <td></td>
+    <td>82.24 (5)</td>
+    <td>86.01 (5)</td>
+    <td>3.77 (10)</td>
+    <td>23.80 (4)</td>
+    <td>36.77 (4)</td>
+    <td>36.77 (4)</td>
+    <td>0.84 (8)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>carina_zhao</td>
+    <td>33</td>
+    <td>10/30/23</td>
+    <td></td>
+    <td>82.19 (6)</td>
+    <td>84.86 (6)</td>
+    <td>2.67 (7)</td>
+    <td>45.17 (6)</td>
+    <td>63.38 (6)</td>
+    <td>63.38 (6)</td>
+    <td>-10.01 (2)</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>jkrizaj</td>
+    <td>2</td>
+    <td>10/30/23</td>
+    <td></td>
+    <td>70.98 (7)</td>
+    <td>74.57 (7)</td>
+    <td>3.60 (9)</td>
+    <td>64.35 (7)</td>
+    <td>81.23 (7)</td>
+    <td>81.23 (7)</td>
+    <td>-3.93 (3)</td>
+  </tr>
+</tbody>
+</table>
+
+### Top Teams
+
 
 ### Schedule
 <div id="schedule">Destination</div>
