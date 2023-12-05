@@ -74,49 +74,31 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 <table>
 <thead>
   <tr>
-    <th>Task 1.1 - synthetic data for bias mitigation</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th rowspan="2">#</th>
+    <th rowspan="2">User</th>
+    <th rowspan="2">Entries</th>
+    <th rowspan="2">Date of Last Entry</th>
+    <th rowspan="2">Team Name</th>
+    <th rowspan="2">Trade-off Accuracy (AVG - STD) [%] </th>
+    <th rowspan="2">AVG Accuracy [%] </th>
+    <th rowspan="2">STD Accuracy [%] </th>
+    <th rowspan="2">FNMR@ FMR=1% </th>
+    <th rowspan="2">Gap to Real [%] </th>
+  </tr>
+  <tr>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td rowspan="2">#</td>
-    <td rowspan="2">User</td>
-    <td rowspan="2">Entries</td>
-    <td rowspan="2">Date of Last Entry</td>
-    <td rowspan="2">Team Name</td>
-    <td rowspan="2">Trade-off Accuracy (AVG - STD) [%] </td>
-    <td rowspan="2">AVG Accuracy [%] </td>
-    <td rowspan="2">STD Accuracy [%] </td>
-    <td rowspan="2">FNMR@ FMR=1% </td>
-    <td rowspan="2">FNMR@ FMR=0.1% </td>
-    <td rowspan="2">FNMR@ FMR=0.01% </td>
-    <td rowspan="2">Gap to Real [%] </td>
-  </tr>
-  <tr>
-  </tr>
   <tr>
     <td>1</td>
     <td>lens</td>
     <td>44</td>
     <td>10/30/23</td>
-    <td></td>
+    <td>LENS</td>
     <td>92.25 (1)</td>
     <td>93.54 (1)</td>
     <td>1.28 (3)</td>
     <td>15.25 (2)</td>
-    <td>25.40 (2)</td>
-    <td>25.40 (2)</td>
     <td>-0.74 (7)</td>
   </tr>
   <tr>
@@ -129,8 +111,6 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
     <td>93.41 (2)</td>
     <td>1.53 (4)</td>
     <td>13.97 (1)</td>
-    <td>24.32 (1)</td>
-    <td>24.32 (1)</td>
     <td>-3.80 (4)</td>
   </tr>
   <tr>
@@ -143,8 +123,6 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
     <td>92.35 (3)</td>
     <td>1.84 (5)</td>
     <td>16.35 (3)</td>
-    <td>33.15 (3)</td>
-    <td>33.15 (3)</td>
     <td>4.23 (9)</td>
   </tr>
   <tr>
@@ -157,8 +135,6 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
     <td>89.62 (4)</td>
     <td>2.11 (6)</td>
     <td>32.57 (5)</td>
-    <td>45.55 (5)</td>
-    <td>45.55 (5)</td>
     <td>5.68 (10)</td>
   </tr>
   <tr>
@@ -166,45 +142,270 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
     <td>asanchez</td>
     <td>6</td>
     <td>10/30/23</td>
-    <td></td>
+    <td>Aphi</td>
     <td>82.24 (5)</td>
     <td>86.01 (5)</td>
     <td>3.77 (10)</td>
     <td>23.80 (4)</td>
-    <td>36.77 (4)</td>
-    <td>36.77 (4)</td>
     <td>0.84 (8)</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>carina_zhao</td>
-    <td>33</td>
-    <td>10/30/23</td>
-    <td></td>
-    <td>82.19 (6)</td>
-    <td>84.86 (6)</td>
-    <td>2.67 (7)</td>
-    <td>45.17 (6)</td>
-    <td>63.38 (6)</td>
-    <td>63.38 (6)</td>
-    <td>-10.01 (2)</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>jkrizaj</td>
-    <td>2</td>
-    <td>10/30/23</td>
-    <td></td>
-    <td>70.98 (7)</td>
-    <td>74.57 (7)</td>
-    <td>3.60 (9)</td>
-    <td>64.35 (7)</td>
-    <td>81.23 (7)</td>
-    <td>81.23 (7)</td>
-    <td>-3.93 (3)</td>
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">#</th>
+    <th rowspan="2">User</th>
+    <th rowspan="2">Entries</th>
+    <th rowspan="2">Date of Last Entry</th>
+    <th rowspan="2">Team Name</th>
+    <th rowspan="2">Trade-off Accuracy (AVG - STD) [%] </th>
+    <th rowspan="2">AVG Accuracy [%] </th>
+    <th rowspan="2">STD Accuracy [%] </th>
+    <th rowspan="2">FNMR@ FMR=1% </th>
+    <th rowspan="2">Gap to Real [%] </th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>zhaoweisong</td>
+    <td>68</td>
+    <td>10/30/23</td>
+    <td>CBSR</td>
+    <td>95.25 (1)</td>
+    <td>96.45 (1)</td>
+    <td>1.20 (3)</td>
+    <td>8.68 (4)</td>
+    <td>-2.10 (5)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>lens</td>
+    <td>44</td>
+    <td>10/30/23</td>
+    <td>LENS</td>
+    <td>95.24 (2)</td>
+    <td>96.35 (2)</td>
+    <td>1.11 (1)</td>
+    <td>6.35 (2)</td>
+    <td>-5.67 (4)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>ckoutlis</td>
+    <td>20</td>
+    <td>10/27/23</td>
+    <td>MeVer Lab</td>
+    <td>93.87 (3)</td>
+    <td>95.44 (3)</td>
+    <td>1.56 (4)</td>
+    <td>9.50 (5)</td>
+    <td>-0.78 (6)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>bjgbiesseck</td>
+    <td>14</td>
+    <td>10/30/23</td>
+    <td>BOVIFOCR-UFPR</td>
+    <td>93.15 (4)</td>
+    <td>95.04 (4)</td>
+    <td>1.89 (5)</td>
+    <td>10.00 (6)</td>
+    <td>1.28 (9)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>atzoriandrea</td>
+    <td>8</td>
+    <td>10/30/23</td>
+    <td>UNICA-FRAUNHOFER IGD</td>
+    <td>91.03 (5)</td>
+    <td>94.06 (5)</td>
+    <td>3.03 (6)</td>
+    <td>6.85 (3)</td>
+    <td>-10.62 (2)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>anjith2006</td>
+    <td>15</td>
+    <td>10/30/23</td>
+    <td>Idiap</td>
+    <td>87.22 (6)</td>
+    <td>91.54 (6)</td>
+    <td>4.32 (8)</td>
+    <td>5.50 (1)</td>
+    <td>-0.65 (7)</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">#</th>
+    <th rowspan="2">User</th>
+    <th rowspan="2">Entries</th>
+    <th rowspan="2">Date of Last Entry</th>
+    <th rowspan="2">Team Name</th>
+    <th rowspan="2">AVG Accuracy [%] </th>
+    <th rowspan="2">FNMR@ FMR=1% </th>
+    <th rowspan="2">Gap to Real [%] </th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>bjgbiesseck</td>
+    <td>14</td>
+    <td>10/30/23</td>
+    <td>BOVIFOCR-UFPR</td>
+    <td>90.50 (1)</td>
+    <td>20.83 (1)</td>
+    <td>2.66 (3)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>lens</td>
+    <td>44</td>
+    <td>10/30/23</td>
+    <td>LENS</td>
+    <td>88.18 (2)</td>
+    <td>33.25 (3)</td>
+    <td>3.75 (5)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>anjith2006</td>
+    <td>15</td>
+    <td>10/30/23</td>
+    <td>Idiap</td>
+    <td>86.39 (3)</td>
+    <td>30.73 (2)</td>
+    <td>6.39 (6)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>nicolo.didomenico</td>
+    <td>5</td>
+    <td>10/29/23</td>
+    <td>BioLab</td>
+    <td>83.93 (4)</td>
+    <td>49.51 (5)</td>
+    <td>6.88 (7)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>ckoutlis</td>
+    <td>20</td>
+    <td>10/27/23</td>
+    <td>MeVer Lab</td>
+    <td>83.45 (5)</td>
+    <td>50.05 (6)</td>
+    <td>3.20 (4)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>asanchez</td>
+    <td>6</td>
+    <td>10/30/23</td>
+    <td>Aphi</td>
+    <td>80.53 (6)</td>
+    <td>46.09 (4)</td>
+    <td>9.12 (8)</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">#</th>
+    <th rowspan="2">User</th>
+    <th rowspan="2">Entries</th>
+    <th rowspan="2">Date of Last Entry</th>
+    <th rowspan="2">Team Name</th>
+    <th rowspan="2">AVG Accuracy [%] </th>
+    <th rowspan="2">FNMR@ FMR=1% </th>
+    <th rowspan="2">Gap to Real [%] </th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>zhaoweisong</td>
+    <td>68</td>
+    <td>10/30/23</td>
+    <td>CBSR</td>
+    <td>94.95 (1)</td>
+    <td>10.82 (1)</td>
+    <td>-3.69 (3)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>lens</td>
+    <td>44</td>
+    <td>10/30/23</td>
+    <td>LENS</td>
+    <td>92.40 (2)</td>
+    <td>17.67 (4)</td>
+    <td>-1.63 (4)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>anjith2006</td>
+    <td>15</td>
+    <td>10/30/23</td>
+    <td>Idiap</td>
+    <td>91.74 (3)</td>
+    <td>23.27 (5)</td>
+    <td>0.00 (7)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>bjgbiesseck</td>
+    <td>14</td>
+    <td>10/30/23</td>
+    <td>BOVIFOCR-UFPR</td>
+    <td>91.34 (4)</td>
+    <td>16.51 (2)</td>
+    <td>1.77 (8)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>ckoutlis</td>
+    <td>20</td>
+    <td>10/27/23</td>
+    <td>MeVer Lab</td>
+    <td>87.60 (5)</td>
+    <td>17.10 (3)</td>
+    <td>-1.57 (5)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>atzoriandrea</td>
+    <td>8</td>
+    <td>10/30/23</td>
+    <td>UNICA-FRAUNHOFER IGD</td>
+    <td>84.86 (6)</td>
+    <td>39.35 (6)</td>
+    <td>-27.43 (1)</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
 
 ### Top Teams
 
