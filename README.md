@@ -17,7 +17,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 
 ### FRCSyn Challenge: Summary Paper
 
-**The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   
+📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   
 
 ### News
 
