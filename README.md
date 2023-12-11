@@ -61,19 +61,19 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     <td>FRCSyn Challenge </td>
   </tr>
   <tr>
-    <td>10:35 – 11:10 </td>
+    <td>10:35 – 10:55 </td>
+    <td>20 min </td>
+    <td>FRCSyn Challenge: Q&amp;A </td>
+  </tr>
+  <tr>
+    <td>10:55 – 11:30 </td>
     <td>35 min </td>
     <td>Top-ranked Teams (5) </td>
   </tr>
   <tr>
-    <td>11:10 – 11:25 </td>
+    <td>11:30 – 11:45 </td>
     <td>15 min </td>
     <td>Notable Teams (3) </td>
-  </tr>
-  <tr>
-    <td>11:25 – 11:45 </td>
-    <td>20 min </td>
-    <td>FRCSyn Challenge: Q&amp;A </td>
   </tr>
   <tr>
     <td>11:45 – 12:00 </td>
