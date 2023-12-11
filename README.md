@@ -1,6 +1,6 @@
 Welcome to **[FRCSyn](https://codalab.lisn.upsaclay.fr/competitions/15485)**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
 
-**The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**
+> 📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**
 
 <p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/09/WACV-Logo_2024-1024x243.png" style="width:35%;height:auto;"></p>
 
@@ -73,7 +73,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy, defined as the difference between the average and standard deviation of accuracy across demographic groups. To determine the winners of sub-tasks 2.1 and 2.2 we consider the average of verification accuracy across datasets.
 
-<p align="center"><strong>Task 1.1 - synthetic data for bias mitigation</strong></p>
+<p align="center" color="blue"><strong>Task 1.1 - synthetic data for bias mitigation</strong></p>
 <table>
 <thead>
   <tr>
