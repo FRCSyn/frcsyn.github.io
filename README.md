@@ -29,7 +29,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 - **10 Sep 2023** Website is live!
 
 ### Schedule
-<div id="schedule">Destination</div>
+<div id="schedule">
 <table>
 <thead>
   <tr>
@@ -96,6 +96,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
   </tr>
 </tbody>
 </table>
+</div>
 
 ### Keynote Speakers
 
