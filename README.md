@@ -1,6 +1,6 @@
 Welcome to **[FRCSyn](https://codalab.lisn.upsaclay.fr/competitions/15485)**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
 
-| 📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   |
+> 📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   
 
 <p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/09/WACV-Logo_2024-1024x243.png" style="width:35%;height:auto;"></p>
 
@@ -23,6 +23,79 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 - **10 Oct 2023** Deadline extended to 30 October
 - **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
+
+### Schedule
+<div id="schedule">Destination</div>
+<table>
+<thead>
+  <tr>
+    <th>Time (HST) </th>
+    <th>Duration </th>
+    <th>Activity </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:20 – 8:30 </td>
+    <td>10 mins </td>
+    <td>Introduction </td>
+  </tr>
+  <tr>
+    <td>8:30 – 9:15 </td>
+    <td>45 min </td>
+    <td>Keynote 1: <a href="https://luminohope.org/">Koki Nagano</a> </td>
+  </tr>
+  <tr>
+    <td>9:15 – 10:00 </td>
+    <td>45 min </td>
+    <td>Keynote 2: <a href="https://www.cs.cmu.edu/~ftorre/">Fernando De la Torre</a> </td>
+  </tr>
+  <tr>
+    <td>10:00 – 10:15 </td>
+    <td>15 min </td>
+    <td>1st Break </td>
+  </tr>
+  <tr>
+    <td>10:15 – 10:35 </td>
+    <td>20 min </td>
+    <td>FRCSyn Challenge </td>
+  </tr>
+  <tr>
+    <td>10:35 – 11:10 </td>
+    <td>35 min </td>
+    <td>Top-ranked Teams (5) </td>
+  </tr>
+  <tr>
+    <td>11:10 – 11:25 </td>
+    <td>15 min </td>
+    <td>Notable Teams (3) </td>
+  </tr>
+  <tr>
+    <td>11:25 – 11:45 </td>
+    <td>20 min </td>
+    <td>FRCSyn Challenge: Q&amp;A </td>
+  </tr>
+  <tr>
+    <td>11:45 – 12:00 </td>
+    <td>15 min </td>
+    <td>2nd Break </td>
+  </tr>
+  <tr>
+    <td>12:00 – 12:45 </td>
+    <td>45 min </td>
+    <td>Keynote 3: <a href="https://cvlab.cse.msu.edu/">Xiaoming Liu</a> </td>
+  </tr>
+  <tr>
+    <td>12:45 – 12:55 </td>
+    <td>10 min </td>
+    <td>Closing Notes </td>
+  </tr>
+</tbody>
+</table>
+
+### Keynote Speakers
+
+TBD
 
 ### Tasks
 
@@ -442,80 +515,6 @@ Facephi, Spain<br>
 **UNICA-FRAUNHOFER IGD**<br>
 Andrea Atzori, Fadi Boutros, Naser Damer, Gianni Fenu, Mirko Marras<br>
 University of Cagliari, Italy; Fraunhofer IGD, Germany; TU Darmstadt, Germany<br>
-
-
-### Schedule
-<div id="schedule">Destination</div>
-<table>
-<thead>
-  <tr>
-    <th>Time (HST) </th>
-    <th>Duration </th>
-    <th>Activity </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>8:20 – 8:30 </td>
-    <td>10 mins </td>
-    <td>Introduction </td>
-  </tr>
-  <tr>
-    <td>8:30 – 9:15 </td>
-    <td>45 min </td>
-    <td>Keynote 1: <a href="https://luminohope.org/">Koki Nagano</a> </td>
-  </tr>
-  <tr>
-    <td>9:15 – 10:00 </td>
-    <td>45 min </td>
-    <td>Keynote 2: <a href="https://www.cs.cmu.edu/~ftorre/">Fernando De la Torre</a> </td>
-  </tr>
-  <tr>
-    <td>10:00 – 10:15 </td>
-    <td>15 min </td>
-    <td>1st Break </td>
-  </tr>
-  <tr>
-    <td>10:15 – 10:35 </td>
-    <td>20 min </td>
-    <td>FRCSyn Challenge </td>
-  </tr>
-  <tr>
-    <td>10:35 – 11:10 </td>
-    <td>35 min </td>
-    <td>Top-ranked Teams (5) </td>
-  </tr>
-  <tr>
-    <td>11:10 – 11:25 </td>
-    <td>15 min </td>
-    <td>Notable Teams (3) </td>
-  </tr>
-  <tr>
-    <td>11:25 – 11:45 </td>
-    <td>20 min </td>
-    <td>FRCSyn Challenge: Q&amp;A </td>
-  </tr>
-  <tr>
-    <td>11:45 – 12:00 </td>
-    <td>15 min </td>
-    <td>2nd Break </td>
-  </tr>
-  <tr>
-    <td>12:00 – 12:45 </td>
-    <td>45 min </td>
-    <td>Keynote 3: <a href="https://cvlab.cse.msu.edu/">Xiaoming Liu</a> </td>
-  </tr>
-  <tr>
-    <td>12:45 – 12:55 </td>
-    <td>10 min </td>
-    <td>Closing Notes </td>
-  </tr>
-</tbody>
-</table>
-
-### Keynote Speakers
-
-TBD
 
 ### Organizers
 
