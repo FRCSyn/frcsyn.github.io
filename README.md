@@ -3,8 +3,6 @@ Welcome to **[FRCSyn](https://codalab.lisn.upsaclay.fr/competitions/15485)**, th
 | 📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   |
 |-----------------------------------------|
 
-> 📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**
-
 <p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/09/WACV-Logo_2024-1024x243.png" style="width:35%;height:auto;"></p>
 
 <p align="center"><img src="/assets/images/intraclass.jpg" style="width:75%;height:auto;"></p>
