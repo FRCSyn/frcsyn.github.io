@@ -15,6 +15,10 @@ This challenge intends to provide an in-depth analysis of the following research
 
 FRCSyn challenge will analyze **improvements achieved using synthetic data** and the state-of-the-art face recognition technology in **realistic scenarios**, providing valuable contributions to advance the field.
 
+### FRCSyn Challenge: Summary Paper
+
+**The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   
+
 ### News
 
 - **30 Nov 2023** <a href="#schedule">Schedule for the Workshop is available</a>  
