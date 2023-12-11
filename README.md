@@ -63,32 +63,32 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     <td>FRCSyn Challenge </td>
   </tr>
   <tr>
-    <td>10:35 – 10:55 </td>
-    <td>20 min </td>
+    <td>10:35 – 10:45 </td>
+    <td>10 min </td>
     <td>FRCSyn Challenge: Q&amp;A </td>
   </tr>
   <tr>
-    <td>10:55 – 11:30 </td>
+    <td>10:45 – 11:20 </td>
     <td>35 min </td>
     <td>Top-ranked Teams (5) </td>
   </tr>
   <tr>
-    <td>11:30 – 11:45 </td>
+    <td>11:20 – 11:35 </td>
     <td>15 min </td>
     <td>Notable Teams (3) </td>
   </tr>
   <tr>
-    <td>11:45 – 12:00 </td>
+    <td>11:35 – 11:50 </td>
     <td>15 min </td>
     <td>2nd Break </td>
   </tr>
   <tr>
-    <td>12:00 – 12:45 </td>
+    <td>11:50 – 12:35 </td>
     <td>45 min </td>
     <td>Keynote 3: <a href="https://cvlab.cse.msu.edu/">Xiaoming Liu</a> </td>
   </tr>
   <tr>
-    <td>12:45 – 12:55 </td>
+    <td>12:35 – 12:45 </td>
     <td>10 min </td>
     <td>Closing Notes </td>
   </tr>
