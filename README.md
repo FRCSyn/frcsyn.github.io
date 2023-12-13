@@ -102,7 +102,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
   <tr>
     <td width="25%">
       <div>
-        <p align="center"><strong>[Koki NAGANO](https://luminohope.org/)</strong></p>
+        <p align="center"><strong><a href="https://luminohope.org/">Koki NAGANO</a></strong></p>
         <p align="center"><img src="/assets/images/nagano.jpg" style="width:90%;height:auto;"></p>
       </div>
     </td>
