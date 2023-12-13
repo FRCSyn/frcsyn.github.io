@@ -113,6 +113,34 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     </td>
   </tr>
 
+  <tr>
+    <td width="25%">
+      <div>
+        <p align="center"><strong>Fernando DE LA TORRE</strong></p>
+        <p align="center"><img src="/assets/images/delatorre.jpg" style="width:90%;height:auto;"></p>
+      </div>
+    </td>
+    <td width="75%">
+      <div>
+        <p><strong>Short bio:</strong> Fernando De la Torre received his B.Sc. degree in Telecommunications, as well as his M.Sc. and Ph. D degrees in Electronic Engineering from La Salle School of Engineering at Ramon Llull University, Barcelona, Spain in 1994, 1996, and 2002, respectively. He has been a research faculty member in the Robotics Institute at Carnegie Mellon University since 2005. In 2014 he founded FacioMetrics LLC to license technology for facial image analysis (acquired by Facebook in 2016). His research interests are in the fields of Computer Vision and Machine Learning. In particular, applications to human health, augmented reality, virtual reality, and methods that focus on the data (not the model). He is directing the Human Sensing Laboratory (HSL).</p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <div>
+        <p align="center"><strong>Xiaoming LIU</strong></p>
+        <p align="center"><img src="/assets/images/liu.jpg" style="width:90%;height:auto;"></p>
+      </div>
+    </td>
+    <td width="75%">
+      <div>
+        <p><strong>Short bio:</strong> Xiaoming Liu (Fellow, IEEE) received the PhD degree in electrical and computer engineering from Carnegie Mellon University in 2004. He is a MSU foundation professor and Anil and Nandita Jain Endowed professor with the Department of Computer Science and Engineering of Michigan State University. Before joining MSU in Fall 2012, he was a research scientist with General Electric (GE) Global Research. His research interests include computer vision, machine learning, and biometrics. As a co-author, he is a recipient of Best Industry Related Paper Award runner-up at ICPR 2014, Best Student Paper Award at WACV 2012 and 2014, Best Poster Award at BMVC 2015, and Michigan State University College of Engineering Withrow Endowed Distinguished Scholar Awards. He has been the area chair for numerous conferences, including CVPR, ICCV, ECCV, ICLR, NeurIPS, the program co-chair of WACV'18, BTAS'18, AVSS'22 conferences, and general co-chair of FG'23 conference. He is an associate editor of IEEE Transactions on Pattern Analysis and Machine Intelligence. He has authored more than 200 scientific publications, and has filed 29 U.S. patents. He is a fellow of IAPR.</p>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 ### Tasks
