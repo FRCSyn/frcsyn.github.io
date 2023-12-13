@@ -102,7 +102,8 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
   <tr>
     <td width="25%">
       <div>
-        <p align="center"><img src="/assets/images/nagano.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><strong>Koki NAGANO</strong></p>
+        <p align="center"><img src="/assets/images/nagano.jpg" style="width:90%;height:auto;"></p>
       </div>
     </td>
     <td width="75%">
