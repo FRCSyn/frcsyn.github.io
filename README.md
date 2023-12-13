@@ -98,7 +98,21 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 
 ### Keynote Speakers
 
-TBD
+<table>
+  <tr>
+    <td width="25%">
+      <div>
+        <p align="center"><img src="/assets/images/nagano.jpg" style="width:70%;height:auto;"></p>
+      </div>
+    </td>
+    <td width="75%">
+      <div>
+        <p><strong>Short bio:</strong> Koki Nagano works at the intersection of Computer Graphics, Vision and AI. Currently, he is a Senior Research Scientist at NVIDIA. His research focuses on realistic digital humans synthesis, neural media synthesis and trustworthy visual computing including detection and prevention of visual misinformation in collaboration with DARPA. His PhD thesis focused on the topic of high-fidelity 3D human capture (USC, 2017), and he was supervised by Prof. Paul Debevec at USC ICT. Previously he was a Principal Scientist at Pinscreen Inc. During his PhD, he worked for Weta Digital on Hollywood blockbuster movies and for the Meta Reality Labs in Pittsburgh. He got his Bachelor of Engineering from Tokyo Institute of Technology with focus on Environmental Design.</p>
+      </div>
+    </td>
+  </tr>
+
+</table>
 
 ### Tasks
 
