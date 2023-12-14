@@ -122,6 +122,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     </td>
     <td width="75%">
       <div>
+        <p><strong>Title:</strong> Zero-shot/few-shot  learning for model diagnosis and debiasing generative models, and its applications to face analysis</p>
         <p><strong>Short bio:</strong> Fernando De la Torre received his B.Sc. degree in Telecommunications, as well as his M.Sc. and Ph. D degrees in Electronic Engineering from La Salle School of Engineering at Ramon Llull University, Barcelona, Spain in 1994, 1996, and 2002, respectively. He has been a research faculty member in the Robotics Institute at Carnegie Mellon University since 2005. In 2014 he founded FacioMetrics LLC to license technology for facial image analysis (acquired by Facebook in 2016). His research interests are in the fields of Computer Vision and Machine Learning. In particular, applications to human health, augmented reality, virtual reality, and methods that focus on the data (not the model). He is directing the Human Sensing Laboratory (HSL).</p>
       </div>
     </td>
