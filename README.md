@@ -621,7 +621,7 @@ The video presentations of the Top Teams are available [here](https://dauam-my.s
   <tr>
     <td>
       <div>
-        <p align="center"><img src="/assets/images/Liu.jpg" style="width:70%;height:auto;"></p>
+        <p align="center"><img src="/assets/images/liu.jpg" style="width:70%;height:auto;"></p>
         <p align="center"><a href="https://www.cse.msu.edu/~liuxm/index2.html">Xiaoming Liu</a></p>
         <p align="center">Michigan State University, US</p>
       </div>
