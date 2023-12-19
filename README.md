@@ -569,11 +569,24 @@ University of Cagliari, Italy; Fraunhofer IGD, Germany; TU Darmstadt, Germany<br
 ### Videos
 
 The video presentations of the Top Teams are available [here](https://www.youtube.com/playlist?list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG).
+
 <table>
   <tr>
     <td width="25%">
-      <p align="center">CBSR</p>
+      <p align="center"><strong>CBSR</strong></p>
       <a href="https://www.youtube.com/watch?v=oaZI0ku72nI&t=1s"><img src="https://img.youtube.com/vi/oaZI0ku72nI/hqdefault.jpg"></a>
+    </td>
+    <td width="25%">
+      <p align="center"><strong>LENS</strong></p>
+      <a href="https://www.youtube.com/watch?v=vA0yyBk_Ugk&t=1s"><img src="https://img.youtube.com/vi/vA0yyBk_Ugk/hqdefault.jpg"></a>
+    </td>
+    <td width="25%">
+      <p align="center"><strong>BOVIFOCR-UFPR</strong></p>
+      <a href="https://www.youtube.com/watch?v=37pjbdV8zYg"><img src="https://img.youtube.com/vi/37pjbdV8zYg/hqdefault.jpg"></a>
+    </td>
+    <td width="25%">
+      <p align="center"><strong>Idiap</strong></p>
+      <a href="https://www.youtube.com/watch?v=bt4dJcYCceI"><img src="https://img.youtube.com/vi/bt4dJcYCceI/hqdefault.jpg"></a>
     </td>
   </tr>
 </table>
