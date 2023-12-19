@@ -1,3 +1,17 @@
+<table border="1px;solid;">
+  <tr>
+    <td> <a href="#paper">Paper</a>  </td>
+    <td> <a href="#news">News</a>  </td>
+    <td> <a href="#schedule">Schedule</a>  </td>
+    <td> <a href="#keynotes">Keynotes</a>  </td>
+    <td> <a href="#results">Results</a>  </td>
+    <td> <a href="#topteams">Top Teams</a>  </td>
+    <td> <a href="#videos">Videos</a>  </td>
+    <td> <a href="#organizers">Organizers</a>  </td>
+    <td> <a href="#fundings">Fundings</a>  </td>
+  </tr>
+</table>
+
 Welcome to **[FRCSyn](https://codalab.lisn.upsaclay.fr/competitions/15485)**, the **Face Recognition Challenge in the Era of Synthetic Data** organized at **WACV 2024**. 
 
 <p align="center"><img src="https://wacv2024.thecvf.com/wp-content/uploads/2023/09/WACV-Logo_2024-1024x243.png" style="width:35%;height:auto;"></p>
@@ -15,16 +29,20 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 
 ### FRCSyn Challenge: Summary Paper
 
+<div id="paper">
 📝 **The summary paper of the FRCSyn Challenge is available [here](https://arxiv.org/abs/2311.10476).**   
+</div>
 
 ### News
 
+<div id="news">
 - **30 Nov 2023** <a href="#schedule">Schedule for the Workshop is available</a>  
 - **20 Nov 2023** [Summary paper available on arxiv](https://arxiv.org/abs/2311.10476)
 - **30 Oct 2023** FRCSyn Challenge ends
 - **10 Oct 2023** Deadline extended to 30 October
 - **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
+</div>
 
 ### Schedule
 <div id="schedule">
@@ -98,6 +116,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 
 ### Keynote Speakers
 
+<div id="keynotes">
 <table>
   <tr>
     <td width="25%">
@@ -146,6 +165,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
   </tr>
 
 </table>
+</div>
 
 ### Tasks
 
@@ -194,6 +214,7 @@ The **best teams** of each sub-task will be invited to **contribute as co-author
 
 ### FRCSyn at WACV 2024: Results
 
+<div id="results">
 To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy, defined as the difference between the average and standard deviation of accuracy across demographic groups. To determine the winners of sub-tasks 2.1 and 2.2 we consider the average of verification accuracy across datasets.
 
 <p align="center"><strong>Task 1.1 - synthetic data for bias mitigation</strong></p>
@@ -531,9 +552,11 @@ To determine the winners of sub-tasks 1.1 and 1.2 we consider Trade-off Accuracy
   </tr>
 </tbody>
 </table>
+</div>
 
 ### FRCSyn at WACV 2024: Top Teams
 
+<div id="topteams">
 **CBSR** <br>
 Weisong Zhao, Xiangyu Zhu, Zheyu Yan, Xiao-Yu Zhang, Jinlin Wu, Zhen Lei<br>
 IIE, CAS, China; School of Cyber Security, UCAS, China; MAIS, CASIA, China; School of Artificial Intelligence, UCAS, China; CAIR, HKISI, CAS, China<br>
@@ -565,9 +588,11 @@ Facephi, Spain<br>
 **UNICA-FRAUNHOFER IGD**<br>
 Andrea Atzori, Fadi Boutros, Naser Damer, Gianni Fenu, Mirko Marras<br>
 University of Cagliari, Italy; Fraunhofer IGD, Germany; TU Darmstadt, Germany<br>
+</div>
 
-### Videos
+### FRCSyn at WACV 2024: Videos
 
+<div id="videos">
 The video presentations of the Top Teams are available [here](https://www.youtube.com/playlist?list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG).
 
 <table>
@@ -609,11 +634,12 @@ The video presentations of the Top Teams are available [here](https://www.youtub
     </td>
   </tr>
 </table>
-
+</div>
 
 
 ### Organizers
 
+<div id="organizers">
 <table>
   <tr>
     <td width="33%">
@@ -687,9 +713,11 @@ The video presentations of the Top Teams are available [here](https://www.youtub
     </td>
   </tr>
 </table>
+</div>
 
 ### Fundings
 
+<div id="fundings">
 <table>
   <tr>
     <td width="50%">
@@ -718,3 +746,4 @@ The video presentations of the Top Teams are available [here](https://www.youtub
   </tr>
 
 </table>
+</div>
