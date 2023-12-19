@@ -574,7 +574,7 @@ The video presentations of the Top Teams are available [here](https://www.youtub
   <tr>
     <td width="25%">
       <p align="center"><strong>CBSR</strong></p>
-      <a href="https://www.youtube.com/watch?v=oaZI0ku72nI&t=1s"><img src="https://img.youtube.com/vi/oaZI0ku72nI/hqdefault.jpg"></a>
+      <a href="https://www.youtube.com/watch?v=oaZI0ku72nI&t=1s" target="_blank"><img src="https://img.youtube.com/vi/oaZI0ku72nI/hqdefault.jpg"></a>
     </td>
     <td width="25%">
       <p align="center"><strong>LENS</strong></p>
