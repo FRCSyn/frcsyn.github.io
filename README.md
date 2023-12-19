@@ -573,7 +573,7 @@ The video presentations of the Top Teams are available [here](https://www.youtub
 <table>
   <tr>
     <td width="25%">
-      [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=oaZI0ku72nI&list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG&index=6)
+      [![CBSR Team](https://img.youtube.com/vi/oaZI0ku72nI&list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG&index=6/0.jpg)](https://www.youtube.com/watch?v=oaZI0ku72nI&list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG&index=6)
     </td>
    
   </tr>
