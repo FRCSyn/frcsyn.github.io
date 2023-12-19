@@ -574,7 +574,7 @@ The video presentations of the Top Teams are available [here](https://www.youtub
   <tr>
     <td width="25%">
       <p align="center"><strong>CBSR</strong></p>
-      <a href="https://www.youtube.com/watch?v=oaZI0ku72nI&t=1s" target="_blank"><img src="https://img.youtube.com/vi/oaZI0ku72nI/hqdefault.jpg"></a>
+      <a href="https://www.youtube.com/watch?v=oaZI0ku72nI&t=1s"><img src="https://img.youtube.com/vi/oaZI0ku72nI/hqdefault.jpg"></a>
     </td>
     <td width="25%">
       <p align="center"><strong>LENS</strong></p>
@@ -587,6 +587,25 @@ The video presentations of the Top Teams are available [here](https://www.youtub
     <td width="25%">
       <p align="center"><strong>Idiap</strong></p>
       <a href="https://www.youtube.com/watch?v=bt4dJcYCceI"><img src="https://img.youtube.com/vi/bt4dJcYCceI/hqdefault.jpg"></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <p align="center"><strong>MeVer</strong></p>
+      <a href="https://www.youtube.com/watch?v=cNrLnfZhUM8"><img src="https://img.youtube.com/vi/cNrLnfZhUM8/hqdefault.jpg"></a>
+    </td>
+    <td width="25%">
+      <p align="center"><strong>BioLab</strong></p>
+      <a href="https://www.youtube.com/watch?v=tHnVRR1D2Tw&t=1s"><img src="https://img.youtube.com/vi/tHnVRR1D2Tw/hqdefault.jpg"></a>
+    </td>
+    <td width="25%">
+      <p align="center"><strong>Aphi</strong></p>
+      <a href="https://www.youtube.com/watch?v=uXeMwhXJWBQ&t=2s"><img src="https://img.youtube.com/vi/uXeMwhXJWBQ/hqdefault.jpg"></a>
+    </td>
+    <td width="25%">
+      <p align="center"><strong>UNICA - FRAUNHOFER IGD</strong></p>
+      <a href="https://www.youtube.com/watch?v=nU12lxAtxD0&t=1s"><img src="https://img.youtube.com/vi/nU12lxAtxD0/hqdefault.jpg"></a>
     </td>
   </tr>
 </table>
