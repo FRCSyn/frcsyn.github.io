@@ -568,7 +568,7 @@ University of Cagliari, Italy; Fraunhofer IGD, Germany; TU Darmstadt, Germany<br
 
 ### Videos
 
-The video presentations of the Top Teams are available [here](https://dauam-my.sharepoint.com/personal/pietro_melzi_uam_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpietro%5Fmelzi%5Fuam%5Fes%2FDocuments%2FFRCSyn%20at%20WACV%2FVideos&ga=1).
+The video presentations of the Top Teams are available [here](https://www.youtube.com/playlist?list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG).
 
 ### Organizers
 
