@@ -570,6 +570,9 @@ University of Cagliari, Italy; Fraunhofer IGD, Germany; TU Darmstadt, Germany<br
 
 The video presentations of the Top Teams are available [here](https://www.youtube.com/playlist?list=PLxaKatnw5XAW49MV4-2dtsDlRiXyRqzYG).
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oaZI0ku72nI/default.jpg)](https://www.youtube.com/watch?v=oaZI0ku72nI&t=1s)
+
+
 ### Organizers
 
 <table>
