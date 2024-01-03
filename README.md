@@ -26,7 +26,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
 - **13 Sep 2023** FRCSyn Challenge starts
 - **10 Sep 2023** Website is live!
 
-### Schedule
+### Schedule, 8th January 2024, Morning
 <div id="schedule">
 <table>
 <thead>
