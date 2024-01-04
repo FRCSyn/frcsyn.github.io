@@ -103,6 +103,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     <td width="25%">
       <div>
         <p align="center"><strong><a href="https://luminohope.org/">Koki NAGANO</a></strong></p>
+        <p align="center">NVIDIA Research</p>
         <p align="center"><img src="/assets/images/nagano.jpg" style="width:90%;height:auto;"></p>
       </div>
     </td>
@@ -119,6 +120,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     <td width="25%">
       <div>
         <p align="center"><strong><a href="https://www.cs.cmu.edu/~ftorre/">Fernando DE LA TORRE</a></strong></p>
+        <p align="center">Carnagie Mellon University</p>
         <p align="center"><img src="/assets/images/delatorre.jpg" style="width:90%;height:auto;"></p>
       </div>
     </td>
@@ -135,6 +137,7 @@ FRCSyn challenge will analyze **improvements achieved using synthetic data** and
     <td width="25%">
       <div>
         <p align="center"><strong><a href="https://cvlab.cse.msu.edu/">Xiaoming LIU</a></strong></p>
+        <p align="center">Michigan State University</p>
         <p align="center"><img src="/assets/images/liu.jpg" style="width:90%;height:auto;"></p>
       </div>
     </td>
