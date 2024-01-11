@@ -18,7 +18,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
             </a>
         </p>
         <p align="center">
-            <a href="CVPR.html" style="text-decoration: none; color: inherit;>FRCSyn 2nd Edition</a>
+            <a href="CVPR2024.html" style="text-decoration: none; color: inherit;>FRCSyn 2nd Edition</a>
         </p>
     </div>
 </div>
