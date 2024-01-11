@@ -12,7 +12,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         <p align="center" style="padding-top:2px">
             FRCSyn 1st Edition WACV On-Going
         </p>
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="WACV2024.html" class="btn">Website</a>
     </div>
     <div style="flex: 50%; padding: 5px;">
         <p align="center">
