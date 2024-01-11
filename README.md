@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/css/style.css">
+
 Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data**.
 
 <div style="display: flex; flex-direction: row;">
@@ -10,6 +12,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         <p align="center" style="padding-top:2px">
             FRCSyn 1st Edition WACV On-Going
         </p>
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
     </div>
     <div style="flex: 50%; padding: 5px;">
         <p align="center">
