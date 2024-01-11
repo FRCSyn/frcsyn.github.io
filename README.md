@@ -27,8 +27,8 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
                 <img src="/assets/images/cvpr_banner_homepage-cropped.png" alt="CVPR2024" width="100%">
             </a>
         </p>
-        <p align="center">
-            FRCSyn 2nd Edition
+        <p align="center" style="color:rgb(21,147,93)">
+            FRCSyn 2nd Edition CVPR
         </p>
         <div style="display: flex; flex-direction: row;">
             <div style="flex: 50%; padding: 15px; padding-top:25px">
