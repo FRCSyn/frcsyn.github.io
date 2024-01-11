@@ -8,7 +8,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
             </a>
         </p>
         <p align="center" style="padding-top:2px">
-            FRCSyn 1st Edition
+            <a href="WACV2024.html" style="text-decoration: none; color: inherit;>FRCSyn 1st Edition WACV On-Going</a>
         </p>
     </div>
     <div style="flex: 50%; padding: 5px;">
@@ -18,7 +18,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
             </a>
         </p>
         <p align="center">
-            FRCSyn 2nd Edition
+            <a href="CVPR.html" style="text-decoration: none; color: inherit;>FRCSyn 2nd Edition</a>
         </p>
     </div>
 </div>
