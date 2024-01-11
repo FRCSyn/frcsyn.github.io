@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: '<a href="https://ivanioel.github.io" style="text-decoration: none; color: inherit;">FRCSyn: Face Recognition Challenge in the Era of Synthetic Data</a>'
+title: '<a href="https://frcsyn.github.io/" style="text-decoration: none; color: inherit;">FRCSyn: Face Recognition Challenge in the Era of Synthetic Data</a>'
 description: 'FRCSyn at WACV 2024, 8th January 2024, VIRTUAL'
 
 show_downloads: false
