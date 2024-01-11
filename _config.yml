@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: '<a href="https://frcsyn.github.io/" style="text-decoration: none; color: inherit;">FRCSyn: Face Recognition Challenge in the Era of Synthetic Data</a>'
-description: 'FRCSyn Challenge'
+# description: 'FRCSyn Challenge'
 
 show_downloads: false
