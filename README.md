@@ -9,9 +9,9 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
                 <img src="/assets/images/WACV-Logo_2024-1024x243.png" alt="WACV2024" width="100%">
             </a>
         </p>
-        <p align="center" style="padding-top:2px">
+        <strong align="center" style="color:rgba(21,88,152,1)">
             FRCSyn 1st Edition WACV On-Going
-        </p>
+        </strong>
         <div style="display: flex; flex-direction: row;">
             <div style="flex: 50%; padding: 15px; padding-top:25px">
                 <p align="center"><a href="WACV2024.html" align="center" class="btn">Website</a></p>
@@ -27,9 +27,9 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
                 <img src="/assets/images/cvpr_banner_homepage-cropped.png" alt="CVPR2024" width="100%">
             </a>
         </p>
-        <p align="center" style="color:rgb(21,147,93)">
+        <strong align="center" style="color:rgba(21,88,152,1)">
             FRCSyn 2nd Edition CVPR
-        </p>
+        </strong>
         <div style="display: flex; flex-direction: row;">
             <div style="flex: 50%; padding: 15px; padding-top:25px">
                 <p align="center"><a href="CVPR2024.html" class="btn">Website</a></p>
