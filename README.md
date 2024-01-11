@@ -12,7 +12,14 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         <p align="center" style="padding-top:2px">
             FRCSyn 1st Edition WACV On-Going
         </p>
-        <a href="WACV2024.html" class="btn">Website</a>
+        <div style="display: flex; flex-direction: row;">
+            <div style="flex: 50%; padding: 15px; padding-top:25px">
+                <a href="WACV2024.html" class="btn">Website</a>
+            </div>
+            <div style="flex: 50%; padding: 15px; padding-top:25px">
+                <a href="https://codalab.lisn.upsaclay.fr/competitions/15485" class="btn">CodaLab</a>
+            </div>
+        </div>
     </div>
     <div style="flex: 50%; padding: 5px;">
         <p align="center">
