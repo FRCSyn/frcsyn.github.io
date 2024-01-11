@@ -14,10 +14,10 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         </p>
         <div style="display: flex; flex-direction: row;">
             <div style="flex: 50%; padding: 15px; padding-top:25px">
-                <a href="WACV2024.html" class="btn">Website</a>
+                <a href="WACV2024.html" align="center" class="btn">Website</a>
             </div>
             <div style="flex: 50%; padding: 15px; padding-top:25px">
-                <a href="https://codalab.lisn.upsaclay.fr/competitions/15485" class="btn">CodaLab</a>
+                <a href="https://codalab.lisn.upsaclay.fr/competitions/15485" align="center" class="btn">CodaLab</a>
             </div>
         </div>
     </div>
@@ -32,10 +32,10 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         </p>
         <div style="display: flex; flex-direction: row;">
             <div style="flex: 50%; padding: 15px; padding-top:25px">
-                <a href="CVPR2024.html" class="btn">Website</a>
+                <a href="CVPR2024.html" align="center" class="btn">Website</a>
             </div>
             <div style="flex: 50%; padding: 15px; padding-top:25px">
-                <a href="https://codalab.lisn.upsaclay.fr/competitions/15485" class="btn">CodaLab</a>
+                <a href="https://codalab.lisn.upsaclay.fr/competitions/15485" align="center" class="btn">CodaLab</a>
             </div>
         </div>
     </div>
