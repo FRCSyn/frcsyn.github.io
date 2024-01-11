@@ -30,5 +30,13 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         <p align="center">
             FRCSyn 2nd Edition
         </p>
+        <div style="display: flex; flex-direction: row;">
+            <div style="flex: 50%; padding: 15px; padding-top:25px">
+                <a href="CVPR2024.html" class="btn">Website</a>
+            </div>
+            <div style="flex: 50%; padding: 15px; padding-top:25px">
+                <a href="https://codalab.lisn.upsaclay.fr/competitions/15485" class="btn">CodaLab</a>
+            </div>
+        </div>
     </div>
 </div>
