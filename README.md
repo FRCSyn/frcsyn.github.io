@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="/css/style.css">
 
+<p align="center"><img src="/assets/images/Image1.jpg" style="width:100%;height:auto;"></p>
+
 Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic Data**.
 
 <div style="display: flex; flex-direction: row;">
