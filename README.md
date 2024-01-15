@@ -12,7 +12,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
             </a>
         </p>
         <p align="center" style="color:rgba(21,88,152,1)">
-            <strong style="font-size: 40px">FRCSyn 1st Edition WACV On-Going</strong>
+            <strong style="font-size: 30px">FRCSyn 1st Edition WACV On-Going</strong>
         </p>
         <div style="display: flex; flex-direction: row;">
             <div style="flex: 50%; padding: 15px; padding-top:25px">
