@@ -6,7 +6,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
 
 <div style="display: flex; flex-direction: row;">
     <div style="flex: 50%; padding: 5px; padding-top:25px">
-        <p align="center" style="color:rgba(21,88,152,1)">
+        <p align="center" style="color:rgba(21,88,152,1);padding-bottom:9px">
             <strong style="font-size: 30px">1st Edition FRCSyn<br>WACV 2024 (On-Going)</strong>
         </p>
         <p align="center">
@@ -24,7 +24,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
         </div>
     </div>
     <div style="flex: 50%; padding: 5px;">
-        <p align="center" style="color:rgba(21,88,152,1);padding-top:20px;padding-bottom:37px">
+        <p align="center" style="color:rgba(21,88,152,1);padding-top:20px">
             <strong style="font-size: 30px">2nd Edition FRCSyn<br>CVPR 2024</strong>
         </p>
         <p align="center">
