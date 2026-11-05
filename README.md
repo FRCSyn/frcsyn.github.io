@@ -19,7 +19,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
                 <p align="center"><a href="WACV2024.html" align="center" class="btn">Website</a></p>
             </div>
             <div style="flex: 50%; padding: 15px; padding-top:25px">
-                <p align="center"><a href="https://codalab.lisn.upsaclay.fr/competitions/15485" align="center" class="btn">CodaLab</a></p>
+                <p align="center"><a href="https://www.codabench.org/competitions/12681/" align="center" class="btn">CodaBench</a></p>
             </div>
         </div>
     </div>
@@ -37,7 +37,7 @@ Welcome to **FRCSyn**, the **Face Recognition Challenge in the Era of Synthetic 
                 <p align="center"><a href="CVPR2024.html" class="btn">Website</a></p>
             </div>
             <div style="flex: 50%; padding: 15px; padding-top:25px">
-                <p align="center"><a href="https://codalab.lisn.upsaclay.fr/competitions/16970" align="center" class="btn">CodaLab</a></p>
+                <p align="center"><a href="https://www.codabench.org/competitions/13796/" align="center" class="btn">CodaBench</a></p>
             </div>
         </div>
     </div>
